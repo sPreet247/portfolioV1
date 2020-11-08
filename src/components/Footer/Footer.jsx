@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Template developed by{'Sukhpreet Singh '}
+          © {new Date().getFullYear()} - developed by {' Sukhpreet Singh '}
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer"></a>
         </p>
 

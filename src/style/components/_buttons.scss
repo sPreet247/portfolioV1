@@ -66,11 +66,11 @@
   border: 2px solid $white-color;
 
   &::after {
-    background: $white-color;
+    background: #1D1240;
   }
 
   &:hover {
-    color: $secondary-color;
+    color: $white-color;
     text-decoration: none;
 
     &::after {
